@@ -1,0 +1,6 @@
+.tip {
+    font-size: 3em;
+    font-weight: 600;
+    margin: 0;
+    -webkit-text-stroke: 2px white;
+}
